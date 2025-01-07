@@ -1,0 +1,93 @@
+# Stopwatch Timer Application
+
+This is a simple and responsive **Stopwatch Timer** application built with **HTML**, **CSS**, and **JavaScript**. It allows users to track elapsed time, pause, reset the timer, and record lap times.
+
+## Features
+
+- **Start, Pause, and Stop Timer**: Control the stopwatch with intuitive buttons.
+- **Lap Timer**: Record and view multiple laps with timestamps.
+- **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices.
+- **Animated Timer**: Smooth animation for enhanced user experience.
+
+## Live Demo
+
+[Visit the Stopwatch Timer Application](stop-watch-iota-mocha.vercel.app)
+
+---
+
+## Project Structure
+
+- **index.html**: The main structure of the application.
+- **style.css**: Styling and responsiveness for the application.
+- **script.js**: Stopwatch functionality and event handling.
+
+---
+
+## Installation and Usage
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/stopwatch-timer.git
+   cd stopwatch-timer
+   ```
+2. **Open in Browser**: Open index.html in your preferred browser to use the stopwatch application.
+
+## How to Use
+
+1. Start the Timer:
+
+	- Click the Start button to begin timing.
+
+2. Pause the Timer:
+
+	- Click the Pause button to pause the stopwatch.
+
+3. Stop and Reset Timer:
+
+	- Click the Stop button to stop and reset the timer.
+
+4. Record Laps:
+
+	- Each time you stop the timer, the current lap time is saved and displayed below the timer.
+
+## Responsive Design
+
+This application is fully responsive, adapting to screens of all sizes, including:
+
+- Mobile devices (small screens)
+- Tablets (medium screens)
+- Desktops (large screens)
+
+## Technologies Used
+
+- **HTML**: For the structure of the application.
+- **CSS**: For styling and animations.
+- **JavaScript**: For stopwatch functionality and dynamic updates.
+
+## Screenshots
+
+Stopwatch Timer Interface
+![Desktop View of Stop Watch](Images/Desktop.png)
+
+## Future Enhancements
+- Add functionality to delete individual laps.
+- Provide an option to export lap times as a text or CSV file.
+- Add dark mode for better usability.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and test thoroughly.
+4. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+Inspiration: Simple stopwatch applications.
+
